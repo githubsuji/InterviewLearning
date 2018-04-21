@@ -1,0 +1,43 @@
+DEBUG Producer com.interthread.legacyway.Producer - producer started
+DEBUG Consumer com.interthread.legacyway.Consumer - consumer started
+DEBUG Producer com.interthread.legacyway.Producer - producing : 0
+DEBUG Producer com.interthread.legacyway.Producer - Queue is full, waiting
+DEBUG Consumer com.interthread.legacyway.Consumer - consuming : 0
+DEBUG Consumer com.interthread.legacyway.Consumer - Queue is empty, waiting
+DEBUG Producer com.interthread.legacyway.Producer - producing : 1
+DEBUG Producer com.interthread.legacyway.Producer - Queue is full, waiting
+DEBUG Consumer com.interthread.legacyway.Consumer - consuming : 1
+DEBUG Consumer com.interthread.legacyway.Consumer - Queue is empty, waiting
+DEBUG Producer com.interthread.legacyway.Producer - producing : 2
+DEBUG Producer com.interthread.legacyway.Producer - Queue is full, waiting
+DEBUG Consumer com.interthread.legacyway.Consumer - consuming : 2
+DEBUG Consumer com.interthread.legacyway.Consumer - Queue is empty, waiting
+DEBUG Producer com.interthread.legacyway.Producer - producing : 3
+DEBUG Consumer com.interthread.legacyway.Consumer - consuming : 3
+DEBUG Consumer com.interthread.legacyway.Consumer - consumer started
+DEBUG Consumer com.interthread.legacyway.Consumer - Queue is empty, waiting
+DEBUG Producer com.interthread.legacyway.Producer - producer started
+DEBUG Producer com.interthread.legacyway.Producer - producing : 0
+DEBUG Producer com.interthread.legacyway.Producer - Queue is full, waiting
+DEBUG Consumer com.interthread.legacyway.Consumer - consuming : 0
+DEBUG Consumer com.interthread.legacyway.Consumer - Queue is empty, waiting
+DEBUG Producer com.interthread.legacyway.Producer - producing : 1
+DEBUG Producer com.interthread.legacyway.Producer - Queue is full, waiting
+DEBUG Consumer com.interthread.legacyway.Consumer - consuming : 1
+DEBUG Consumer com.interthread.legacyway.Consumer - Queue is empty, waiting
+DEBUG Producer com.interthread.legacyway.Producer - producing : 2
+DEBUG Producer com.interthread.legacyway.Producer - Queue is full, waiting
+DEBUG Consumer com.interthread.legacyway.Consumer - consuming : 2
+DEBUG Consumer com.interthread.legacyway.Consumer - Queue is empty, waiting
+DEBUG Producer com.interthread.legacyway.Producer - producing : 3
+DEBUG Consumer com.interthread.legacyway.Consumer - consuming : 3
+INFO main com.myinterview.immutable.Planet - Sat Apr 21 20:46:00 IST 2018
+INFO main com.myinterview.immutable.ImmutableExecutor - Sat Apr 21 20:46:00 IST 2018
+INFO main com.myinterview.immutable.Planet - Mon Jan 25 11:23:20 IST 1999
+INFO main com.myinterview.immutable.ImmutableExecutor - Mon Jan 25 11:23:20 IST 1999
+INFO main com.myinterview.immutable.Planet - Thu Mar 25 11:23:20 IST 1999
+INFO main com.myinterview.immutable.ImmutableExecutor - Thu Mar 25 11:23:20 IST 1999
+INFO main com.myinterview.immutable.Planet - Thu Mar 25 11:23:20 IST 1999
+INFO main com.myinterview.immutable.ImmutableExecutor - Thu Mar 25 11:23:20 IST 1999
+INFO main com.myinterview.immutable.Planet - Thu Mar 25 11:23:20 IST 1999
+INFO main com.myinterview.immutable.ImmutableExecutor - Thu Mar 25 11:23:20 IST 1999
